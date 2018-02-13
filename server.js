@@ -14,10 +14,10 @@ var Twit = require('twit');
 
 
 var T = new Twit({
-  consumer_key:         'cwp0ifDWfOJYKbJWcjSxTW9M7',
-  consumer_secret:      'ev54lljDDar3n9QuA8E3pOHHppcUpIbNXt2CQ3rwlGnJV3NIRH',
-  access_token:         '3341047145-C0UZ7wWTQlJqQQogZSWp5aKeDekWYEmpS5UAptF',
-  access_token_secret:  'zs2ER8NbcKKosw3nnHOH7VBQEj1d3dfLO3lCnkSXupVIa',
+  consumer_key:         'SECRET',
+  consumer_secret:       'SECRET',
+  access_token:          'SECRET',
+  access_token_secret:   'SECRET',
   timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests. 
 })
 
